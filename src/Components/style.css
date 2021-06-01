@@ -1,0 +1,36 @@
+footer{
+        
+        background-color: whitesmoke;
+        text-align: center;
+        padding: 10px;
+        float: inherit;
+}
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+}
+
+.beranda {
+    
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+}
+.isi{
+  position: none;
+  margin-top: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+.link:hover{
+  color: darkgray;
+  text-decoration:none;
+}
+ 
+
+  
